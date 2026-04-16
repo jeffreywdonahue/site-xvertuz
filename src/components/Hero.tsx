@@ -22,7 +22,8 @@ export default function Hero() {
           fill
           className="object-cover object-center"
           priority
-          unoptimized
+          sizes="100vw"
+          quality={75}
         />
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-b from-[#0B1320]/90 via-[#0B1320]/70 to-[#0B1320]" />

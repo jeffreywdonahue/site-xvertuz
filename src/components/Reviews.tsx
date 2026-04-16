@@ -35,7 +35,7 @@ const REVIEWS = [
   {
     author: "Dustin Kearney",
     rating: 5,
-    text: "Great vape shop with a very diverse selection and the best prices in the Basin\n\nHighly recommended for all vape, CBD, smoking accessories as well as a huge Kratom selection!\n\nAsk for Robert, he is very knowledgeable about every product they have in stock and they also take recommendations for new products and will usually order them for you.\nThey will even let you know when they arrive.",
+    text: "Great vape shop with a very diverse selection and the best prices in the Basin\n\nHighly recommended for all vape, CBD, smoking accessories as well as a huge Kratom selection!\n\nAsk for Robert, he is very knowledgeable about every product they have in stock and they also take recommendations for new products and will usually order them for you.\nThey will even let you know when they arrive.\n\nhttps://www.xvertuz.com",
     date: "2020-08-29",
     location: "Vernal, UT",
   },
