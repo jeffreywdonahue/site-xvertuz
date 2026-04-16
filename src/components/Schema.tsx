@@ -8,7 +8,7 @@ const SCHEMA = [
     description:
       "Premium vape and smoke shop offering disposables, salt nic, CBD, kratom, hookahs and accessories. Founded by two sisters in Vernal, Utah.",
     telephone: "(435) 789-8273",
-    url: "VERCEL_URL_PLACEHOLDER",
+    url: "https://site-xvertuz.vercel.app",
     logo: "https://xvertuz.com/wp-content/uploads/2024/09/cropped-xvertuz-logo_2-270x270.png",
     image: "https://xvertuz.com/wp-content/uploads/2024/09/cropped-xvertuz-logo_2-270x270.png",
     address: {
@@ -54,7 +54,7 @@ const SCHEMA = [
     "@type": "LocalBusiness",
     name: "Xvertuz Vapes — Dinosaur",
     telephone: "(970) 449-0331",
-    url: "VERCEL_URL_PLACEHOLDER",
+    url: "https://site-xvertuz.vercel.app",
     address: {
       "@type": "PostalAddress",
       streetAddress: "206 Brontosaurus Blvd",
@@ -79,7 +79,7 @@ const SCHEMA = [
     "@type": "LocalBusiness",
     name: "Xvertuz — Pocatello",
     telephone: "(208) 417-4419",
-    url: "VERCEL_URL_PLACEHOLDER",
+    url: "https://site-xvertuz.vercel.app",
     address: {
       "@type": "PostalAddress",
       streetAddress: "301 S 4th Ave",
@@ -104,7 +104,7 @@ const SCHEMA = [
     "@type": "LocalBusiness",
     name: "Xvertuz Rock Springs",
     telephone: "(307) 522-5785",
-    url: "VERCEL_URL_PLACEHOLDER",
+    url: "https://site-xvertuz.vercel.app",
     address: {
       "@type": "PostalAddress",
       streetAddress: "1301 Elk St",
