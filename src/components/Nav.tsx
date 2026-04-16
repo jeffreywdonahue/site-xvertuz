@@ -36,22 +36,16 @@ export default function Nav() {
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between">
-          {/* Logo — image only on mobile, image + wordmark on desktop */}
-          <a href="/" className="flex items-center gap-2 shrink-0">
+          {/* Logo — image only, no text wordmark */}
+          <a href="/" className="shrink-0">
             <Image
               src="https://xvertuz.com/wp-content/uploads/2024/09/cropped-xvertuz-logo_2-270x270.png"
               alt="Xvertuz"
-              width={36}
-              height={36}
+              width={40}
+              height={40}
               className="rounded-full"
               unoptimized
             />
-            <span
-              className="text-xl font-bold tracking-widest text-[#F2F6FF] hidden sm:inline"
-              style={{ fontFamily: "var(--font-bebas), cursive" }}
-            >
-              XVERTUZ
-            </span>
           </a>
 
           {/* Desktop nav */}
