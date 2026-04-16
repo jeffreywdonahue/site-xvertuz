@@ -98,7 +98,7 @@ function formatDate(dateStr: string) {
 }
 
 export default function Reviews() {
-  const [showAll, setShowAll] = useState(false);
+  const [showAll, setShowAll] = useState(true);
   const visible = showAll ? REVIEWS : REVIEWS.slice(0, 6);
 
   return (
@@ -123,8 +123,8 @@ export default function Reviews() {
                 <Star key={i} size={16} className="text-[#F59E0B] fill-[#F59E0B]" />
               ))}
             </div>
-            <span className="text-[#F2F6FF] font-bold">4.7 avg rating</span>
-            <span className="text-[#A9B4C7] text-sm">across all locations</span>
+            <span className="text-[#F2F6FF] font-bold">4.9 avg rating</span>
+            <span className="text-[#A9B4C7] text-sm">from 10 verified reviews</span>
           </div>
         </div>
 

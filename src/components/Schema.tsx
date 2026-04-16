@@ -4,7 +4,7 @@ const SCHEMA = [
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: "Xvertuz Vapes",
+    name: "Xvertuz",
     description:
       "Premium vape and smoke shop offering disposables, salt nic, CBD, kratom, hookahs and accessories. Founded by two sisters in Vernal, Utah.",
     telephone: "(435) 789-8273",
@@ -40,8 +40,8 @@ const SCHEMA = [
     ],
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "4.7",
-      reviewCount: "179",
+      ratingValue: "4.9",
+      reviewCount: "10",
     },
     sameAs: [
       "https://www.facebook.com/xvertuz/",
